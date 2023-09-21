@@ -1,0 +1,9 @@
+.main-cart-col{
+    background-color: darkgray;
+}
+.cart-image{
+    width: 100%;
+    max-width: 100px;
+    height: 100px;
+    object-fit: fill;
+}
